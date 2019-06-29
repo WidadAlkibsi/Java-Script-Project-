@@ -1,0 +1,1 @@
+## This project opens a website where the user inputs the width and height of a certain table and when clicked upon the color of the cell will change
